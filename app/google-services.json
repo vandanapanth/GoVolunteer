@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "262669213948",
+    "firebase_url": "https://govolunteer-22efd.firebaseio.com",
+    "project_id": "govolunteer-22efd",
+    "storage_bucket": "govolunteer-22efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262669213948:android:bf25cac935491a0a",
+        "android_client_info": {
+          "package_name": "com.scotsix.goa.govolunteer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262669213948-d8poreu3mq11o2rte33s36cti3p4i723.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHpJzxsTYZ5rqzduKFSR2Nz0l1aJdn1EI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
